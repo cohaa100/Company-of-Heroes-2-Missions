@@ -1,0 +1,54 @@
+minimap_size =  
+{
+	768,
+	768,
+}
+uses_ice = false
+visible_in_lobby = true
+win_condition = "00000000000000000000000000000000:2486585725"
+slots =  
+{
+	 
+	{
+		status = 0,
+		flags = 0,
+	},
+	 
+	{
+		status = 2,
+		flags = 0,
+	},
+	 
+	{
+		status = 1,
+		flags = 0,
+	},
+	 
+	{
+		status = 1,
+		flags = 0,
+	},
+	 
+	{
+		status = 1,
+		flags = 0,
+	},
+	 
+	{
+		status = 1,
+		flags = 0,
+	},
+	 
+	{
+		status = 1,
+		flags = 0,
+	},
+	 
+	{
+		status = 1,
+		flags = 0,
+	},
+}
+start_location = 1
+scenario_type = 9
+

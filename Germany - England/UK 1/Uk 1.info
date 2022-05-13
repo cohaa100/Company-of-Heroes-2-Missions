@@ -1,0 +1,51 @@
+HeaderInfo =  
+{
+	scenarioname = "Uk 1",
+	scenariodescription = "",
+	maxplayers = 2,
+	scenario_battlefront = 0,
+	scenarioabbrname = "",
+	savedname = "",
+	version = 2008,
+	mapsize =  
+	{
+		384,
+		384,
+	},
+	music = "",
+	point_positions =  
+	{
+		 
+		{
+			y = -79.87675,
+			x = -48.35695,
+			owner_id = 1000,
+			ebp_name = "starting_position_shared_territory",
+		},
+		 
+		{
+			y = 78.83273,
+			x = -128.32013,
+			owner_id = 1001,
+			ebp_name = "territory_point",
+		},
+		 
+		{
+			y = 43.82204,
+			x = 127.97125,
+			owner_id = 1001,
+			ebp_name = "territory_point_command",
+		},
+		 
+		{
+			y = 178.46503,
+			x = -83.74583,
+			owner_id = 1001,
+			ebp_name = "starting_position_sp",
+		},
+	},
+	default_skins =  
+	{
+	},
+}
+
