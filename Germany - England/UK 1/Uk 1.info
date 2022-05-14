@@ -17,8 +17,8 @@ HeaderInfo =
 	{
 		 
 		{
-			y = -79.87675,
-			x = -48.35695,
+			y = -100.30029,
+			x = -117.32582,
 			owner_id = 1000,
 			ebp_name = "starting_position_shared_territory",
 		},
